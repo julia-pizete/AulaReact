@@ -5,6 +5,10 @@ import Exercicio2 from "./exercicio2";
 import Exercicio3 from "./exercicio3";
 import Exercicio4 from "./exercicio4";
 import Exercicio5 from "./exercicio5";
+import Exercicio6 from "./exercicio6";
+import Exercicio7 from "./exercicio7";
+import Exercicio9 from "./exercicio9";
+import Exercicio10 from "./exercicio10";
 
 export default function App()
 {
@@ -53,8 +57,43 @@ export default function App()
       <hr />
       <Exercicio5 quantidade={20} />
      </div>
+
+     <div className="card">
+                <h3>Chamada para o Exercício 6</h3>
  
+                <Exercicio6 capital={1000} taxa={5} tempo={6} />
+                <hr />
+                <Exercicio6 capital={2000} taxa={10} tempo={12} />
+                <hr />
+                <Exercicio6 capital={1500} taxa={3} tempo={8} />
+ 
+            </div>
+ 
+ 
+     <div className="card">
+                <h3>Chamada para o Exercício 7</h3>
+ 
+                <Exercicio7 celsius={30} />
+ 
+            </div>
+
+            <div className="card">
+                <h3>Chamada para o Exercício 9</h3>
+ 
+                <Exercicio9 vendas={15000} salario={2500} />
+               
+            </div>
+            <div className="card">
+          <h3>Chamada para o Exercício 10</h3>
+
+          <Exercicio10 salarioBase={2500} />
+</div>
       </div>
+      
+      
+ 
+
+
       
   )
 }
