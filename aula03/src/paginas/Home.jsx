@@ -60,7 +60,21 @@ export default function Home() {
                     <li><Link to="/estados/se">Sergipe</Link></li>
                     </ul>
         </div>
+        
+        <div className="conteudo">
+
+                   <h3>Região Centro Oeste</h3>
+
+                 <ul>   
+                    <li><Link to="/estados/go">Goiás</Link></li>
+                    <li><Link to="/estados/mt">Mato Grosso</Link></li>
+                    <li><Link to="/estados/ms">Mato Grosso do Sul</Link></li>
+                    <li><Link to="/estados/df">Distrito Federal</Link></li>
+                  </ul>
+
+                   </div>
         </div>
+
      
     );
 

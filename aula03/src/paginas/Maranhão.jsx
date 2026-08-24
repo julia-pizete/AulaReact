@@ -1,19 +1,18 @@
 import { Link } from "react-router-dom";
-export default function Maranhão () {
+export default function Maranhao() {
     return (
         <div>
-            <h1>Estado do Maranhão </h1>
+            <h1>Estado do Maranhão</h1>
             <div className="conteudo">
 
 
-                <img src="MA/.png" />
+            <img src="/MA.png" />
+
+
 
                 <p>
-                O Maranhão é um estado localizado na Região Nordeste do Brasil. Sua capital é São Luís, uma cidade conhecida por seu 
-                centro histórico e sua cultura. O estado possui belas paisagens naturais, como os Lençóis Maranhenses, com suas dunas e lagoas.
-                 Sua economia se destaca pela agricultura, pecuária, indústria e turismo.
-                 O Maranhão também tem festas e tradições culturais muito importantes.
-
+                O Maranhão (MA) é um estado do Nordeste do Brasil. Sua capital é São Luís. 
+                É conhecido pelos Lençóis Maranhenses, pelo Bumba Meu Boi e por sua rica cultura e culinária.
                 </p>
 
                 <p>
@@ -21,7 +20,6 @@ export default function Maranhão () {
                 </p>
 
             </div>
-
         </div>
 
     );
