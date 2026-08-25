@@ -6,7 +6,7 @@ export default function Ceara() {
             <div className="conteudo">
 
 
-                <img src="CE/.png" />
+                <img src="/CE.png" />
 
                 <p>
                 O Ceará é um estado localizado na Região Nordeste do Brasil. Sua capital é Fortaleza, conhecida por suas belas praias.

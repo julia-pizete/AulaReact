@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-export default function Paraíba() {
+export default function Paraiba() {
     return (
         <div>
             <h1>Estado da Paraíba </h1>
             <div className="conteudo">
 
 
-                <img src="PB/.png" />
+                <img src="/PB.png" />
 
                 <p>
                 A Paraíba é um estado localizado na Região Nordeste do Brasil. Sua capital é João Pessoa, uma cidade conhecida por suas belas

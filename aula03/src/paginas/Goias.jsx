@@ -6,7 +6,7 @@ export default function Goias() {
             <div className="conteudo">
 
 
-                <img src="GO/.png" />
+                <img src="/GO.png" />
 
                 <p>
                 

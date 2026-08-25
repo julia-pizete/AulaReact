@@ -6,7 +6,7 @@ export default function Bahia() {
             <div className="conteudo">
 
 
-                <img src="BA/.png" />
+                <img src="/BA.png" />
 
                 <p>
                 A Bahia é um estado localizado na Região Nordeste do Brasil. Sua capital é Salvador, uma cidade conhecida por sua história e cultura.

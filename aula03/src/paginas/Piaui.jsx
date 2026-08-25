@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 export default function Piaui () {
     return (
         <div>
-            <h1>Estado do Píaui</h1>
+            <h1>Estado do Piaui</h1>
             <div className="conteudo">
 
 

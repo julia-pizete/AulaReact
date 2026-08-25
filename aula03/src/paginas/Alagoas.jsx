@@ -6,7 +6,7 @@ export default function Alagoas () {
             <div className="conteudo">
 
 
-                <img src="AL/.png" />
+                <img src="/AL.png" />
 
                 <p>
                 Alagoas é um estado localizado na Região Nordeste do Brasil. Sua capital é Maceió, conhecida por suas belas praias e águas claras.

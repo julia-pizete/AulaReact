@@ -6,7 +6,7 @@ export default function Sergipe () {
             <div className="conteudo">
 
 
-                <img src="Se/.png" />
+                <img src="/Se.png" />
 
                 <p>
                 Sergipe é um estado localizado na Região Nordeste do Brasil. Sua capital é Aracaju. 

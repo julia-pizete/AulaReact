@@ -6,7 +6,7 @@ export default function RioGrandedoNorte () {
             <div className="conteudo">
 
 
-                <img src="RN/.png" />
+                <img src="/RN.png" />
 
                 <p>
                 O Rio Grande do Norte é um estado do Nordeste do Brasil, cuja capital é Natal. 
